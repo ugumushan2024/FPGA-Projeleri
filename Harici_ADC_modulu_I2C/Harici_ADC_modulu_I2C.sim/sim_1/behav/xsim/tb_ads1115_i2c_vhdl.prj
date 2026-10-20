@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Harici_ADC_modulu_I2C.srcs/sources_1/new/ads1115_i2c_top.vhd" \
+"../../../../Harici_ADC_modulu_I2C.srcs/sim_1/new/tb_ads1115_i2c.vhd" \
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../bmp280_SPI_veri_alma.srcs/sources_1/new/bmp280_spi_reader.vhd" \
+"../../../../bmp280_SPI_veri_alma.srcs/sim_1/new/tb_bmp280_spi_reader.vhd" \
+
+# Do not sort compile order
+nosort

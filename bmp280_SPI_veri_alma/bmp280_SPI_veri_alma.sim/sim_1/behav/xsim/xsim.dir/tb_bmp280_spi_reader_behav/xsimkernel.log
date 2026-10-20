@@ -1,0 +1,7 @@
+Running: xsim.dir/tb_bmp280_spi_reader_behav/xsimk.exe -simmode gui -wdb tb_bmp280_spi_reader_behav.wdb -simrunnum 0 -socket 3201
+Design successfully loaded
+Design Loading Memory Usage: 19572 KB (Peak: 19572 KB)
+Design Loading CPU Usage: 61 ms
+Simulation completed
+Simulation Memory Usage: 28120 KB (Peak: 28120 KB)
+Simulation CPU Usage: 233 ms

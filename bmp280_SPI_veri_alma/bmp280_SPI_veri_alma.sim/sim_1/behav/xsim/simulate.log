@@ -1,0 +1,7 @@
+Time resolution is 1 ps
+Note: BASARILI: BMP280 Konfigurasyon paketi (0x74 -> 0x27) dogru alindi.
+Time: 2725 ns  Iteration: 2  Process: /tb_bmp280_spi_reader/bmp280_slave_model  File: C:/FPGA_projeleri/vivado_alma/bmp280_SPI_veri_alma/bmp280_SPI_veri_alma.srcs/sim_1/new/tb_bmp280_spi_reader.vhd
+Error: HATA: Cikis verisi 0x7EA53 ile eslesmiyor!
+Time: 13186 ns  Iteration: 0  Process: /tb_bmp280_spi_reader/bmp280_slave_model  File: C:/FPGA_projeleri/vivado_alma/bmp280_SPI_veri_alma/bmp280_SPI_veri_alma.srcs/sim_1/new/tb_bmp280_spi_reader.vhd
+Note: SIMULASYON TAMAMLANDI: temp_raw_out = 0x7EA53 basariyla okundu!
+Time: 13186 ns  Iteration: 0  Process: /tb_bmp280_spi_reader/bmp280_slave_model  File: C:/FPGA_projeleri/vivado_alma/bmp280_SPI_veri_alma/bmp280_SPI_veri_alma.srcs/sim_1/new/tb_bmp280_spi_reader.vhd

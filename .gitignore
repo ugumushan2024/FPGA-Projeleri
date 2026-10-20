@@ -1,0 +1,11 @@
+# Tüm alt klasörlerdeki Vivado geçici dosyalarını yoksay
+**/.*cache/
+**/.*hw/
+**/.*ip_user_files/
+**/.*runs/
+**/.*sim/
+**/.*gen/
+*.xpr.old
+**/.*jou
+**/.*log
+**/.Xil/
